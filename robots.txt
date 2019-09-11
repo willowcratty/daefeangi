@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oghookiex.infinitepiss.com/sitemap.xml
